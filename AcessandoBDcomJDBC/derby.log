@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Thu Jun 01 20:35:49 BRT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-015c-6603-e087-000006deb628 
+on database directory C:\Users\13111586\Downloads\CadastroPessoasV5\derbyDB  with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/13111586/Downloads/CadastroPessoasV5/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=C:\Users\13111586\Downloads\CadastroPessoasV5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
